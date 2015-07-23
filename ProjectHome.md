@@ -1,0 +1,1 @@
+android nahrada skenera ciarovych kodov
